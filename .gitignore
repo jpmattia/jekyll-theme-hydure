@@ -4,3 +4,9 @@
 .sass-cache
 _site
 Gemfile.lock
+
+# Ignore emacs tempfiles:
+*~
+\#*\#
+.\#*
+
